@@ -5,6 +5,14 @@
 Project structure:
 
     Back-end - Python
+
+cash_optimizer/
+    __init__.py
+    optimizer.py     
+    utils.py         
+main.py          
+tests/
+    test_optimizer.py
     
 Run Project:
 
