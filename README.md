@@ -1,4 +1,4 @@
-:test_tube: Technical Challenge: Buzzvel 2025 Frontend Developer Test
+:test_tube: Technical Challenge: Cash Minimizer
 
 :desktop_computer: Lucas Spartacus
 
