@@ -4,17 +4,17 @@
 
 Project structure:
 
-    Front-end - JavaScript, React, Tailwind css, Next.js 15.3.1
-
+    Back-end - Python
+    
 Run Project:
 
-First, run the following command to clone the github repository
+First, run the following command to clone the github repository:
 
 ```
 git clone https://github.com/lucasspartacus/CashMinimizer.git
 ```
 
-After, run the project in the root folder og the project:
+After, run the project in the root folder of the project:
 
 ```bash
 python main.py
